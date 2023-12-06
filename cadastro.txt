@@ -1,0 +1,2 @@
+arroz,1000,arroz soltinho
+feijao,1500, feijao gostoso
